@@ -1,3 +1,3 @@
 # leetcode rust
 
-读 LeetCode cookbook (https://books.halfrost.com/leetcode/) 练习 Rust。
+读 LeetCode Cookbook (https://books.halfrost.com/leetcode/) 练习 Rust。
